@@ -1,0 +1,14 @@
+{
+  "name": "WebExt on VSO",
+  "version": "1.1.0",
+  "description": "A basic add-on",
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "author": "laedit",
+  "manifest_version": 2,
+  "gecko": {
+    "id": "webextonvso@jetpack",
+    "strict_min_version": "48.0"
+  }
+}
